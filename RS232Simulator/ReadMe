@@ -1,0 +1,8 @@
+Step 1:
+	open config.ini set baud rate comport & simulator
+Step 2: 
+	run RS232.py
+
+ComportSearch for search comport
+SendToRs232 can send byte to Rs232
+Verify is to verify Swapbridge simulator and sentio send remote command is correct or not
